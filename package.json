@@ -1,0 +1,33 @@
+{
+  "name": "@visbot/file_id.diz",
+  "version": "0.0.0",
+  "description": "Exports the file_id.diz as used by VISBOT releases, CLI apps, or the web",
+	"license": "CC-BY-SA-4.0",
+  "type": "module",
+  "exports": "./index.js",
+  "files": [
+    "index.mjs",
+    "*.md"
+  ],
+  "scripts": {
+    "lint": "eslint --fix ./index.mjs",
+    "test": "uvu tests"
+  },
+	"engines": {
+			"node": "^14.13.1 || >=16.0.0"
+	},
+  "contributors": [
+    {
+      "name": "nemoorange",
+      "url": "https://github.com/desandro"
+    },
+    {
+      "name": "yathosho",
+      "url": "https://github.com/idleberg"
+    }
+  ],
+  "devDependencies": {
+    "eslint": ">=8.14.0",
+    "uvu": "^0.5.6"
+  }
+}
