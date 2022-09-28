@@ -7,7 +7,7 @@
   "exports": "./index.js",
   "files": [
     "index.mjs",
-    "*.md"
+    "README.md"
   ],
   "scripts": {
     "lint": "eslint --fix ./index.mjs",
