@@ -1,6 +1,6 @@
 {
   "name": "@visbot/file_id.diz",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Exports the file_id.diz as used by VISBOT releases, CLI apps, or the web",
 	"license": "CC-BY-SA-4.0",
   "type": "module",
