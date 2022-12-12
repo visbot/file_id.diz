@@ -5,6 +5,9 @@
 	"license": "CC-BY-SA-4.0",
   "type": "module",
   "exports": "./index.mjs",
+	"bin": {
+			"vfid": "./bin/cli.mjs"
+	},
   "files": [
     "index.mjs",
     "README.md"
