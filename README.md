@@ -2,7 +2,7 @@
 
 [![npm](https://flat.badgen.net/npm/license/@visbot/file_id.diz)](https://www.npmjs.org/package/@visbot/file_id.diz)
 [![npm](https://flat.badgen.net/npm/v/@visbot/file_id.diz)](https://www.npmjs.org/package/@visbot/file_id.diz)
-[![CI](https://img.shields.io/github/workflow/status/visbot/file_id.diz/CI?style=flat-square)](https://github.com/visbot/file_id.diz/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/visbot/file_id.diz/default.yml?style=flat-square)](https://github.com/visbot/file_id.diz/actions)
 
 The classic ASCII logo by [@nemoorange](https://www.deviantart.com/nemoorange) for use in VISBOT releases, CLI apps, or the web.
 
